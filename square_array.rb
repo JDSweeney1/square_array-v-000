@@ -1,5 +1,6 @@
 def square_array(array)
     puts array.collect { | i | i ** 2}
+    array
 end
 
 
