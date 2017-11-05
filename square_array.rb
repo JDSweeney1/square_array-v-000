@@ -3,6 +3,5 @@ def square_array(array)
   puts "new_array"
 end
 
+square_array([1,2,3])
 
-puts square_array([1,2,3])
-puts "[1,2,3]"
